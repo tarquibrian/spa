@@ -1,0 +1,2 @@
+# spa
+Aplicación web SPA
